@@ -1,4 +1,4 @@
-## Hi there 👋<a href="#"><a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=gvvn8_v3tLK6ssLk7frv4_vurOHt7w" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_22.png"/></a>
+## Hi there 👋<a href="#">
 <img align="right" src="https://github-readme-stats-neon-psi-82.vercel.app/api?username=yeqiu6080&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
 </a>  
 <!--
@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=gvvn8_v3tLK6ssLk7frv4_vurOHt7w" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_22.png"/></a>
